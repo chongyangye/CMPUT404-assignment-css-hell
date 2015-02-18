@@ -1,0 +1,74 @@
+html{
+    background-image:url('./old-scratched-background.jpg');
+    background-size:cover;
+}
+
+/* Theme paragraphs */
+p {
+    color: black;
+    margin-left: 30px;
+    margin-right: 45px;
+    text-align: left;
+}
+
+hr  { 
+    width: 50%; 
+    text-align: center;
+}
+
+/* Theme header tags */
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+/* Theme img */
+img {
+    opacity: 0.4;
+    max-width:300px;
+    padding: 1px;
+}
+
+
+img:hover {
+    opacity: 1;
+}
+
+
+figure {
+    margin: 1.5em;
+    float: right;
+    width: 304px;
+    height: auto;
+    border: 1px solid #FFFFFF;
+
+    
+}
+
+
+figcaption {
+
+    word-wrap: break-word;
+    font-size: 80%;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+
+pre {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 13px;
+    text-align: center;
+    font-weight: 400;
+    border-style:solid;
+    border-color:black;
+}
+
+
+
+a:hover {
+    color: black;
+}
