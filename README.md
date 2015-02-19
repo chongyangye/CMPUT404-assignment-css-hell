@@ -27,6 +27,8 @@ Part 1 Documentation
 =================
 Create a css file and link it to all three html files
 
+Set margins for paragraphs in the width
+
 Add old picture as the background
 
 Change the color of the text in paragraphs to be black
@@ -40,4 +42,11 @@ Set the header tags in the book center aligned
 Image For Part1:
 http://www.publicdomainpictures.net/view-image.php?image=69398&picture=old-scratched-background
 
+Part 2 Documentation
+=================
+Backgound image: http://www.dreamstime.com/royalty-free-stock-image-light-blue-background-9a-image1804836
+
+Header background image: http://www.cs.uml.edu/~ychen1/Image/headerbg.jpg
+
+Both good.html and bad.html are the same, the difference is css file. This seperate them into bad version and good version
 

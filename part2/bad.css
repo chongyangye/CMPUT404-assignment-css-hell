@@ -1,0 +1,46 @@
+html{
+    background:blue;
+    background-size:cover;
+}
+
+h1{
+    
+    background:yellow;
+    background-size:cover;
+    font-size:50px;
+    color:#808080;
+    text-align:center;
+}
+h2,h3,h4{
+    font-family: "Times New Roman",times. serif;
+    font-size:25px;
+    color:#000000;
+
+}
+
+div.introduction, div.history, div.cando{
+    color:#000000;
+    font-family: "Times New Roman",times. serif;
+    position:relative;
+    width:50%;
+    left:15%;
+
+}
+
+img{
+    position:relative;
+    float:left;
+    margin:0px 0px 40px 20px;
+}
+
+
+div.sidebox{
+
+
+    position:relative;
+    float:right;
+    width: 25%;
+    right: 5%;
+    color:#000000;
+    text-align: center;
+
